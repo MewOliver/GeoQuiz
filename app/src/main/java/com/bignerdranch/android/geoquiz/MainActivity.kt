@@ -19,8 +19,6 @@ import com.bignerdranch.android.geoquiz.databinding.ActivityMainBinding
 
 private const val TAG = "MainActivity"
 
-// Up to page 190
-
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
